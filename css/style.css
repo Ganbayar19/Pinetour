@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.headermenu {
+  border: 2px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  gap: 24px;
+}
+
+.section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  gap: 4px;
+}
+
+.Apple {
+  width: 12px;
+  height: 15px;
+}
+
+.text .h1 {
+  font-size: 12px;
+}
+
+.frame {
+  display: flex;
+  width: 1920px;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  color
+}
